@@ -1,7 +1,7 @@
-import { SocietyDashboard } from '@/components/SocietyDashboard';
+import { SocietyManagement } from '@/components/SocietyManagement';
 
 const Index = () => {
-  return <SocietyDashboard />;
+  return <SocietyManagement />;
 };
 
 export default Index;
